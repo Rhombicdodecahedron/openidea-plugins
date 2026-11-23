@@ -1,0 +1,6 @@
+repository = "https://github.com/Rhombicdodecahedron/openidea-doppler"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/Rhombicdodecahedron/openidea-doppler/releases/download/v0.1.0/rhombicdodecahedron.doppler-0.1.0.oiplugin"
+sha256 = "0287f040866261045ad88f379fd2d4f395a9cb37b161da7392ce27b2182e8e83"
