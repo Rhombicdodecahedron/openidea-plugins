@@ -1,0 +1,6 @@
+repository = "https://github.com/Rhombicdodecahedron/openidea-code-snap"
+
+[[versions]]
+version = "0.1.0"
+package = "https://github.com/Rhombicdodecahedron/openidea-code-snap/releases/download/v0.1.0/rhombicdodecahedron.code-snap-0.1.0.oiplugin"
+sha256 = "e7f22af1931589c198f22fe29ebc8ee12a75966d6f52ef9665aca04e086bc6d9"
